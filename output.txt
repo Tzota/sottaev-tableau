@@ -1,0 +1,39 @@
+{ 5371 } { Personal }  » npx create-react-app sottaev-tableau                                                                                                         ~/Personal  {node-8.9.3}
+npx: installed 111 in 7.23s
+
+Creating a new React app in /home/tzota/Personal/sottaev-tableau.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts...
+
+
+> uglifyjs-webpack-plugin@0.4.6 postinstall /home/tzota/Personal/sottaev-tableau/node_modules/uglifyjs-webpack-plugin
+> node lib/post_install.js
+
++ react-dom@16.2.0
++ react@16.2.0
++ react-scripts@1.1.0
+added 1158 packages in 42.768s
+
+Success! Created sottaev-tableau at /home/tzota/Personal/sottaev-tableau
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd sottaev-tableau
+  npm start
+
+Happy hacking!

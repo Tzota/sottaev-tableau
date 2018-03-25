@@ -1,0 +1,42 @@
+html, body, #root {
+  height: 100%;
+}
+
+.App {
+  text-align: center;
+  height: 100%;
+  /* opacity: 0.05; */
+}
+.Tableau {
+  height: 100%;
+}
+
+:root {
+  --points-back: yellow;
+  --points-titles: yellow;
+  --lightBorder:
+          -5px -5px 5px white,
+          5px -5px 5px white,
+          -5px 5px 5px white,
+           5px 5px 5px white;
+  --darkBorder:
+           -1px -1px 0 black,
+           1px -1px 0 black,
+           -1px 1px 0 black,
+            1px 1px 0 black;
+
+  /* --pointsCaptionSize: 10vh;
+  --pointsSize: 40vh;
+  --timeSize: 20vh;
+  --roundSize: 14vh;
+  --secondaryPointsSize: 12vh;
+  --secondaryPointsCaptionsSize: 4vh; */
+  --pointsCaptionSize: 5vw;
+  --pointsSize: 22vw;
+  --timeSize: 13vw;
+  --roundSize: 8vw;
+  --secondaryPointsSize: 9vw;
+  --secondaryPointsCaptionsSize: 2.4vw;
+  --secondaryPointsCaptionsNonSportSize: 2.2vw;
+  --logo-urlSize: 3.2vw;
+}
